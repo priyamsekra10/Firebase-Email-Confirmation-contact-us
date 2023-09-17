@@ -25,7 +25,8 @@ This Python script demonstrates how to send email confirmations to users who hav
 
 Update the SMTP server details and email credentials in the script.
 
-3. Usage
+
+## Usage
 Run the Python script to send confirmation emails to users who have submitted their contact information.
 
 
@@ -33,11 +34,11 @@ Run the Python script to send confirmation emails to users who have submitted th
 python send_confirmation_email.py
 The script will fetch data from Firebase Firestore, send confirmation emails to users, and store sent data to prevent duplicates.
 
-5. Configuration
+## Configuration
 Update the script with your Firebase service account key, SMTP server details, and email credentials.
 
-7. Contributing
+## Contributing
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
-8. License
+## License
 This project is licensed under the MIT License.
